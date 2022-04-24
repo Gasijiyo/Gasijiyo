@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-## 💻 STACK 
+### 💻 STACK 
 
 ![](https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white)
 ![](https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=Spring&logoColor=white)
@@ -15,11 +15,15 @@
 ![](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=black)
 ![](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
 ![](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=Node.js&logoColor=white)
+<br>
+<br>
+![](https://img.shields.io/badge/Eclipse-2C2255?style=flat-square&logo=Eclipse&logoColor=white)
+![](https://img.shields.io/badge/VSCode-007ACC?style=flat-square&logo=VisualStudioCode&logoColor=white)
+![](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=GitHub&logoColor=white)
+![](https://img.shields.io/badge/Netlify-00C7B7?style=flat-square&logo=Netlify&logoColor=black)
 
 
 <!--
-eclipse #2C2255 #3776AB
-flat-square
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
