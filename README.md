@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fgjbae1212%2Fhit-counter&count_bg=%2335A81B&title_bg=%23383434&icon=github.svg&icon_color=%23F7F7F7&title=Today+%2F+Total&edge_flat=false)
+
 ### 💻 STACK 
 
 ![](https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white)
