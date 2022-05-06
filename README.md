@@ -1,6 +1,8 @@
+<div align=center>
+  
 ### Hi there 👋
 
-![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fgjbae1212%2Fhit-counter&count_bg=%2335A81B&title_bg=%23383434&icon=github.svg&icon_color=%23F7F7F7&title=Today+%2F+Total&edge_flat=false)
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FGasijiyo&count_bg=%2341C124&title_bg=%233A3939&icon=github.svg&icon_color=%23E4E2E2&title=Today+%2F+Total&edge_flat=false)](https://hits.seeyoufarm.com)
 
 ### 💻 STACK 
 
@@ -24,7 +26,8 @@
 ![](https://img.shields.io/badge/GoogleColab-F9AB00?style=flat-square&logo=GoogleColab&logoColor=black)
 ![](https://img.shields.io/badge/Netlify-00C7B7?style=flat-square&logo=Netlify&logoColor=black)
 
-
+</div>
+  
 <!--
 
 - 🔭 I’m currently working on ...
