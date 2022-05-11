@@ -25,7 +25,8 @@
 ![](https://img.shields.io/badge/VSCode-007ACC?style=flat-square&logo=VisualStudioCode&logoColor=white)
 ![](https://img.shields.io/badge/GoogleColab-F9AB00?style=flat-square&logo=GoogleColab&logoColor=black)
 ![](https://img.shields.io/badge/Netlify-00C7B7?style=flat-square&logo=Netlify&logoColor=black)
-
+![](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=Postman&logoColor=black)
+ 
 </div>
   
 <!--
