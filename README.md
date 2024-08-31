@@ -16,6 +16,7 @@
 ![](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black)
 ![](https://img.shields.io/badge/Next.js-000000?style=flat&logo=nextdotjs&logoColor=white)
 <br> 
+![](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
 ![](https://img.shields.io/badge/Oracle-F80000?style=flat&logo=Oracle&logoColor=white)
 ![](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=MongoDB&logoColor=white)
 ![](https://img.shields.io/badge/MariaDB-003545?style=flat&logo=mariadb&logoColor=white)
